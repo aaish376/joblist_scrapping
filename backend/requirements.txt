@@ -1,0 +1,10 @@
+Flask
+Flask-Cors
+Flask-SQLAlchemy
+mysql-connector-python
+python-dotenv
+
+
+selenium
+bs4
+webdriver-manager
